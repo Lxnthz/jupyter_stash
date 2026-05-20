@@ -1,0 +1,12 @@
+timestamp_utc,source,entity,event_type,delta,previous_count,current_count
+2026-05-06T11:42:27.684490+00:00,postgres,orders,growth,50,16800,16850
+2026-05-06T11:42:27.684490+00:00,postgres,payments,growth,41,13488,13529
+2026-05-06T11:42:49.658774+00:00,mongo,orders,growth,50,142,192
+2026-05-06T11:43:22.641400+00:00,postgres,orders,growth,50,16850,16900
+2026-05-06T11:43:22.641400+00:00,postgres,payments,growth,38,13529,13567
+2026-05-06T11:54:19.719752+00:00,mongo,orders,growth,42,249,291
+2026-05-06T11:54:31.382491+00:00,postgres,orders,growth,50,17500,17550
+2026-05-06T11:54:31.382491+00:00,postgres,payments,growth,40,14052,14092
+2026-05-06T11:55:26.800617+00:00,postgres,orders,growth,50,17550,17600
+2026-05-06T11:55:26.800617+00:00,postgres,payments,growth,43,14092,14135
+2026-05-06T11:55:26.800617+00:00,mongo,orders,growth,50,291,341
